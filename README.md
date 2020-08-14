@@ -8,8 +8,8 @@
 
 Eu estudo programação! Seguintes linguagens que já sei bem:
 
-- :white_check_mark: Javascrit / Csharp / Golang 
+- :white_check_mark: Javascrit / Csharp
 - :white_check_mark: Atualmente usando o módulo **DiscordJS** no discord.
-- :green_book: Estudando TypeScript, ReactApp / React Native.
+- :green_book: Estudando ReactJS / C.
 
 
