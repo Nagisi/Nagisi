@@ -13,7 +13,6 @@ Eu estudo programação! Seguintes linguagens que já sei bem:
 - :green_book: Estudando ReactJS / C.
 
 
-![db039626bfa2ecc53f0f6e7f335aef4c](https://user-images.githubusercontent.com/63076142/90302687-5ca84a80-de7e-11ea-8496-f3c1e31eee68.gif)
 
 
 
