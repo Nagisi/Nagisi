@@ -1,6 +1,6 @@
 #                                                                   Renegadowsz
 
-<img align="right" alt="GIF" src="https://pa1.narvii.com/6376/ea035b97ab5a57e92d0d342d36423c463268722b_hq.gif"/>
+
 
 
 
@@ -13,7 +13,7 @@
 
 
 <img align="left" alt="GIF" src="https://data.whicdn.com/images/251864800/original.gif" />
-
+<img align="right" alt="GIF" src="https://pa1.narvii.com/6376/ea035b97ab5a57e92d0d342d36423c463268722b_hq.gif"/>
 
 
 
