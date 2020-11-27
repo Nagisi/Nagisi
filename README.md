@@ -17,7 +17,7 @@
 ---
 #
 
-<img align="left" alt="GIF" src="https://data.whicdn.com/images/134918337/original.gif" />
+<img align="left" alt="GIF" src="https://pa1.narvii.com/6616/bcf055843859c247d3f1be83e124694be8b0a9fd_hq.gif" />
 
 
 **許されざる者 | パインパッカー**
