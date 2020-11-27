@@ -1,6 +1,6 @@
 #                                                                   Renegadowsz
 
-<img align="right" alt="GIF" src="https://25.media.tumblr.com/6886e1b53d72b2148eb2385ae9c7650e/tumblr_mtim7sFn1j1qi0f9no1_500.gif"/>
+<img align="right" alt="GIF" src="https://cdn130.picsart.com/301183691201201.gif?to=min&r=640"/>
 
 
 
