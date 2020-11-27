@@ -18,7 +18,7 @@
 
 #
 
-<img align="left" alt="GIF" src="https://i.makeagif.com/media/9-19-2015/CaRUZq.gif" />
+<img align="left" alt="GIF" src="https://thumbs.gfycat.com/ElaboratePlushAmericangoldfinch-max-1mb.gif" />
 
 
 **許されざる者 | パインパッカー**
