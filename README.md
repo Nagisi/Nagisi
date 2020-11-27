@@ -30,10 +30,9 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">><</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/invisizzzz" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
-<a href="https://twitch.tv/invisigoth59" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
-</p>
+<a href="https://twitter.com/ogrenegado7" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+
  
