@@ -26,6 +26,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogrenegado7)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+---
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
