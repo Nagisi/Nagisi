@@ -1,19 +1,24 @@
-# Renegadowsz
+#                                                                   Renegadowsz
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/0xwatchdog)](https://github.com/renegadowszz)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/renegadowsz7)](https://twitter.com/renegadowsz7)
-[![Renegadowsz Badge](https://img.shields.io/twitter/url?color=grey&label=Renegadowsz&logo=renegado.tk&logoColor=green&style=flat-square&url=https%3A%2F%2Fnull09.tk)](renegadodev.tk)
-
-## 👋 - Opa!
-
-Eu estudo programação! Seguintes linguagens que já sei bem:
-
-- :white_check_mark: Javascript / Csharp
-- :white_check_mark: Atualmente usando o módulo **DiscordJS** no discord.
-- :green_book: Estudando ReactJS / C.
+<img align="right" alt="GIF" src="https://25.media.tumblr.com/6886e1b53d72b2148eb2385ae9c7650e/tumblr_mtim7sFn1j1qi0f9no1_500.gif"/>
 
 
 
+### O que sei fazer: 
+
+- 📚 Javascript, C#
+- 📖 Estudando Golang
+
+[![Twitter Badge](https://img.shields.io/badge/-@ogrenegado7-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/ogrenegado7)](https://twitter.com/ogrenegado7) 
+
+### Spotify 🎧
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Tocando agora" width="350" />](https://open.spotify.com/user/renegadowsz)
+
+#
+
+<img align="left" alt="GIF" src="https://data.whicdn.com/images/251864800/original.gif" />
 
 
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogrenegado7)](https://github.com/anuraghazra/github-readme-stats)
