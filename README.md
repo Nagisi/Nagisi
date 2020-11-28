@@ -9,6 +9,8 @@
 
 - 📚 Javascript, C#
 - 📖 Estudando Golang
+- 📌 Passatempo no tryhackme
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@ogrenegado7-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/ogrenegado7)](https://twitter.com/ogrenegado7) 
 
