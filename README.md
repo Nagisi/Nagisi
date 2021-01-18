@@ -7,12 +7,11 @@
 
 ### O que eu sei:
 
-- 📚 Javascript, C#
-- 📖 Estudando Golang
-- 📌 Passatempo no tryhackme/htb
 
-
-[![Twitter Badge](https://img.shields.io/badge/-@ogrenegado7-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/ogrenegado7)](https://twitter.com/ogrenegado7) 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 
@@ -25,16 +24,9 @@
 **許されざる者 | パインパッカー**
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogrenegado7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
----
-
-<h3 align="center">><</h3>
-<p align="center">
-<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/ogrenegado7" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 
  
