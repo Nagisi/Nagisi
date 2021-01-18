@@ -1,7 +1,7 @@
 
 #                                                                    Renegadowsz
 
-<img align="right" alt="GIF" src="https://assets.puzzlefactory.pl/puzzle/286/478/original.jpg"/>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ElaborateMemorableArieltoucan-size_restricted.gif"/>
 
 **O que fizeram comigo me criou, é um princípio básico do universo, que toda ação cria uma reação igual e oposta!** 
 
