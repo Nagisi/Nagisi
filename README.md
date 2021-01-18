@@ -1,7 +1,7 @@
 
 #                                                                    Renegadowsz
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2f/b4/e0/2fb4e0855435ee29118de2e1eb424564.gif"/>
+<img align="right" alt="GIF" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/05/Feitan-Featured.jpg"/>
 
 **O que fizeram comigo me criou, é um princípio básico do universo, que toda ação cria uma reação igual e oposta!** 
 
