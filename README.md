@@ -18,7 +18,6 @@
 ---
 #
 
-<img align="left" alt="GIF" src="https://pa1.narvii.com/7219/a879c417b3ea626b57b73c198761ce5d1e7510bar1-320-227_00.gif" />
 
 
 **許されざる者 | パインパッカー**
