@@ -1,7 +1,7 @@
 
 #                                                                    Renegadowsz
 
-<img align="right" alt="GIF" src="https://static.wikia.nocookie.net/villains/images/2/28/Feitan%27s_concealed_sword.png/revision/latest?cb=20160306064211"/>
+<img align="right" alt="GIF" src="https://static.wikia.nocookie.net/hxh/images/8/8c/Feitan_by_draagonSENPAI2.jpg/revision/latest?cb=20180304131615&path-prefix=pt"/>
 
 **O que fizeram comigo me criou, é um princípio básico do universo, que toda ação cria uma reação igual e oposta!** 
 
