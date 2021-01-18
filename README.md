@@ -1,7 +1,7 @@
 
 #                                                                    Renegadowsz
 
-<img align="right" alt="GIF" src="https://pa1.narvii.com/6748/489a13cd89a530a38f0443b98fa11c64f970aa84_00.gif"/>
+<img align="right" alt="GIF" src="https://pa1.narvii.com/6388/58660263c6b48376548e9693148b589b0f8b4713_hq.gif"/>
 
 **O que fizeram comigo me criou, é um princípio básico do universo, que toda ação cria uma reação igual e oposta!** 
 
