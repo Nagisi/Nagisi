@@ -20,7 +20,9 @@
 
 
 
-**許されざる者 | パインパッカー**
+## O que estou aprendendo:
+![Golang Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 
