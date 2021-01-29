@@ -1,7 +1,7 @@
 
 #                                                                    Renegadowsz
 
-<img align="right" alt="GIF" src="https://pa1.narvii.com/6388/58660263c6b48376548e9693148b589b0f8b4713_hq.gif"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
 
 **O que fizeram comigo me criou, é um princípio básico do universo, que toda ação cria uma reação igual e oposta!** 
 
