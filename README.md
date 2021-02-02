@@ -3,12 +3,6 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
 
-### Olá 👋
-I have been a programming student since 2015 focusing on bots and websites.
-- 🎮 I'm currently just playing and without any programming projects, but I also play ctf in boredom.
-- 👤 I'm 17 years old.
-- 📍 São Paulo, Brasil.
-
 ### O que eu sei:
 
 
