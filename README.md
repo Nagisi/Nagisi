@@ -12,7 +12,7 @@
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![m3ciecli's github stats](https://github-readme-stats.vercel.app/api?username=d3le73d&theme=blue-green)](https://github.com/d3le73d/github-readme-stats)
+[![M3ciecli github stats](https://github-readme-stats.vercel.app/api?username=d3le73d&theme=blue-green)](https://github.com/d3le73d/github-readme-stats)
 
 
 
