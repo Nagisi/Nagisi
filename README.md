@@ -27,6 +27,9 @@
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=d3le73d&theme=blue-green)
+
+
 
 
 
