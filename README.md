@@ -20,7 +20,7 @@
 #
 
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/806316396526043236/d023f8ac6daa52386d49b54cd1feba81.gif"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/806316390205489172/tumblr_ee863e75b9fd6ee54bdb81448117b324_6a39f3e9_250.gif"/>
 
 
 ## O que estou aprendendo:
