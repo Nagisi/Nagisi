@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
 
-
+<font color="red">Isto é algum texto!</font>
 ### O que eu sei:
 
 
