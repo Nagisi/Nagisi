@@ -20,6 +20,8 @@
 #
 
 
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
+
 
 ## O que estou aprendendo:
 ![Golang Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -27,6 +29,7 @@
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=d3le73d&theme=blue-green)
+
 
 
 
