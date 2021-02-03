@@ -2,7 +2,7 @@
 #                                                                    Renegadowsz
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
-<p style='color:red'>This is some red text.</p>
+
 
 ### O que eu sei:
 
