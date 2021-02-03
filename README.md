@@ -6,8 +6,8 @@
 ```diff
 + ⭐ Focado em bots e criação de sites.
 - 🔍 CTF Player.
-# 📍 São Paulo, Brasil.
-! ❗ Interessado em Golang, Python & C.
+! 📍 São Paulo, Brasil.
+# ❗ Interessado em Golang, Python & C.
 ```
 
 
