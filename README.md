@@ -20,7 +20,7 @@
 #
 
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/804690072414715924/solaire.gif"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/806316396526043236/d023f8ac6daa52386d49b54cd1feba81.gif"/>
 
 
 ## O que estou aprendendo:
