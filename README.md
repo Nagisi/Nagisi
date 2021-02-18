@@ -10,7 +10,7 @@
 + 🛠️ Interessado em Golang, Python & C.
 ```
 
-<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/775166243212754945/806671657111650384/ezgif.com-gif-maker.jpg"/>
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/790761120691781632/811972710061047808/ezgif.com-gif-maker.jpg"/>
 
 
 
