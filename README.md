@@ -6,7 +6,7 @@
 ```diff
 - 🔍 CTF Player.
 ! 📍 São Paulo, Brasil.
-@@17 Anos.
+@@17 anos.@@
 + 🛠️ Interessado em Golang, Python & C.
 ```
 
