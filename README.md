@@ -4,7 +4,6 @@
 
 
 ```diff
-@@⭐ 15 anos.@@
 - 🔍 CTF Player.
 ! 📍 São Paulo, Brasil.
 ```
