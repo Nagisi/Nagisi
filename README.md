@@ -4,7 +4,7 @@
 
 
 ```diff
-- 🔍 Desenvolvimento de Sistemas.
+- 🔍 Análise e Desenvolvimento de Sistemas.
 ! 📍 São Paulo, Brasil.
 ```
 
