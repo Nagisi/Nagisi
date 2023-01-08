@@ -4,7 +4,7 @@
 
 
 ```diff
-![preview](trupe.jpg)
+![preview](trupe.jpeg)
 + CTF Player.
 ! 📍 São Paulo, Brasil.
 ```
