@@ -6,7 +6,7 @@
 ```diff
 - São Paulo 🇧🇷
 ```
-![preview](clouds.png)
+![preview](moon.png)
 
 
 
