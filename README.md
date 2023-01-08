@@ -4,7 +4,7 @@
 
 
 ```diff
-<$ diff -u old.md new.md | tee changes.diff $>
+<$a $>
 + CTF Player.
 ! 📍 São Paulo, Brasil.
 ```
