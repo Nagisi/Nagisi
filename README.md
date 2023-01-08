@@ -4,7 +4,7 @@
 
 
 ```diff
-- São Paulo
+- São Paulo 🇧🇷
 ```
 ![preview](troupe.jpg)
 
