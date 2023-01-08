@@ -4,7 +4,7 @@
 
 
 ```diff
-- São Paulo, Brasil
+- São Paulo
 ```
 ![preview](troupe.jpg)
 
