@@ -6,7 +6,7 @@
 ```diff
 - São Paulo 🇧🇷
 ```
-![preview](troupe.jpg)
+![preview](clouds.png)
 
 
 
